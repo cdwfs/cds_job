@@ -1,0 +1,13 @@
+GPATH
+GRTAGS
+GTAGS
+GSYMS
+
+# Visual Studio droppings
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.suo
+
+*.dSYM
